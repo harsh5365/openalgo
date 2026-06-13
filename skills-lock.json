@@ -31,6 +31,12 @@
       "skillPath": ".claude/skills/strategy-compare/SKILL.md",
       "computedHash": "2ce8861c37d91bbfae9bfe73d485b59a4d1649c81444b69b545ec710d9541593"
     },
+    "systematic-debugging": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/systematic-debugging/SKILL.md",
+      "computedHash": "7246fdd3a795fc3daff0af72044ca99bf836e4e6a46844742858786fdfb86488"
+    },
     "vectorbt-expert": {
       "source": "marketcalls/vectorbt-backtesting-skills",
       "sourceType": "github",
